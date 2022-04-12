@@ -1,0 +1,1 @@
+it should be project that show user 10 quotes every hour then refresh using redis
